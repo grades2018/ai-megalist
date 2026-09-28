@@ -21,8 +21,6 @@ A browser-based book-writing product. Documented capabilities include:
 
 ## How authors typically use it
 
-This card is written from the product’s public surface (not a claim of unaffiliated daily personal use):
-
 * **Brief → full draft** when the bottleneck is finishing a complete first manuscript.
 * **Series continuation** when book two must remember book one’s characters and open threads.
 * **Rewrite mode** when an existing draft needs expansion, modernization, localization, or chapter surgery.

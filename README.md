@@ -342,6 +342,7 @@ Make things - words, images, video, sound.
 | [Grammarly](tools/grammarly.md) | Editor + GenAI; broad app coverage |
 | [Wordtune](tools/wordtune.md) | Rewriting and tone control |
 | [HyperWrite](tools/hyperwrite.md) | Personal writing assistant with browser agent |
+| [ImagineYourBook](tools/imagineyourbook.md) | Full-manuscript planning, chapter drafting, and rewrite + Word/EPUB/Markdown export |
 
 #### Marketing / brand voice / SEO
 | Tool | Best for |
@@ -356,10 +357,10 @@ Make things - words, images, video, sound.
 #### Fiction & creative
 | Tool | Best for |
 | :-- | :-- |
-| [ImagineYourBook](tools/imagineyourbook.md) | Whole-book planning + chapter drafting with series bibles |
 | [Sudowrite](tools/sudowrite.md) | Category leader for fiction (Story Engine, Canvas) |
 | [NovelCrafter](tools/novelcrafter.md) | Codex-style world-bibles + AI writing |
 | [NovelAI](tools/novelai.md) | AI storytelling with custom models |
+| [ImagineYourBook](tools/imagineyourbook.md) | Whole-book planning + chapter drafting with series bibles |
 
 ### Image generation
 

@@ -356,6 +356,7 @@ Make things - words, images, video, sound.
 #### Fiction & creative
 | Tool | Best for |
 | :-- | :-- |
+| [ImagineYourBook](tools/imagineyourbook.md) | Whole-book planning + chapter drafting with series bibles |
 | [Sudowrite](tools/sudowrite.md) | Category leader for fiction (Story Engine, Canvas) |
 | [NovelCrafter](tools/novelcrafter.md) | Codex-style world-bibles + AI writing |
 | [NovelAI](tools/novelai.md) | AI storytelling with custom models |
